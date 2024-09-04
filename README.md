@@ -22,7 +22,7 @@ This project demonstrates the deployment of a Python Flask application connected
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/flask-mongodb-app.git
+git clone https://github.com/Omkar0070/Flask-MongoDB.git
 cd flask-mongodb-app
 ```
 
